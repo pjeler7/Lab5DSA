@@ -1,7 +1,0 @@
-﻿  SMMIterator.cpp
-C:\Users\paulj\source\repos\Lab5DSA\SortedMultiMap\SortedMultiMap.h(23,2): warning C4091: 'typedef ': ignored on left of 'BSTNode' when no variable is declared
-C:\Users\paulj\source\repos\Lab5DSA\SortedMultiMap\SMMIterator.cpp(59,30): warning C4018: '<': signed/unsigned mismatch
-  SortedMultiMap.cpp
-C:\Users\paulj\source\repos\Lab5DSA\SortedMultiMap\SortedMultiMap.h(23,2): warning C4091: 'typedef ': ignored on left of 'BSTNode' when no variable is declared
-  Generating Code...
-  Lab5DSA.vcxproj -> C:\Users\paulj\source\repos\Lab5DSA\Debug\Lab5DSA.exe
